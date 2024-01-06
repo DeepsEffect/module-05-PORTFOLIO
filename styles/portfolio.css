@@ -148,3 +148,11 @@ main {
     line-height: 30px;
     /* 150% */
 }
+#whatIDo-description{
+    padding: 30px 150;
+}
+
+/* skills container section */
+.skills-container{
+    display: flex;
+}
